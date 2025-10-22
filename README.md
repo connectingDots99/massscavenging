@@ -8,3 +8,6 @@ https://cdn.jsdelivr.net/gh/connectingDots99/massscavenging@main/massScavenge.js
 
 https://cdn.jsdelivr.net/gh/connectingDots99/massscavenging@refs/heads/main/mass_scavenge_retain.js
 
+- Mass Scavenge Select:
+
+https://cdn.jsdelivr.net/gh/connectingDots99/massscavenging@refs/heads/main/mass_scavenge_select.js
